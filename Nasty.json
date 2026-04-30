@@ -1,0 +1,20 @@
+[
+    {
+        "From": "JPY",
+        "To": "GBP",
+        "Amount": 50.0,
+        "Result": 0.23149999999999998
+    },
+    {
+        "From": "JPY",
+        "To": "JPY",
+        "Amount": 50.0,
+        "Result": 50.0
+    },
+    {
+        "From": "CHF",
+        "To": "EUR",
+        "Amount": 604.0,
+        "Result": 658.36
+    }
+]
